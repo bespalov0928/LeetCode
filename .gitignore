@@ -1,6 +1,4 @@
 target/
 /Yandex/
-/Yandex/src/
-/moduleTree/
 *.xml
 *.iml
